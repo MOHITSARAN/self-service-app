@@ -1,9 +1,5 @@
 # warehouse
 
-- Take the code in your system
-
-- Command - git clone https://tools.lowes.com/stash/scm/~msaran/asset-warehouse.git
-
 Steps to run the Application on Local system -
 
 - Open the code in your IDE (ex VS code)
