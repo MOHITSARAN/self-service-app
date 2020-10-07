@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "asset-inventory-289612",
+    "private_key_id": "f6d4cd5d01d8a6a3666f96640670337895898ba5",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCdCzYJzMHHiSdF\nVXCoDryt7sadBduqc9FyYXp7aPx4mT1QkbCJWU7nVb8L+CZi0fVsxZeWeWeVNVL1\nKr2aCqalZ46dHiO2lj5pD4c4Pjq00E3VWXggJK1vYYanjPuo0ECq4Utxem8aNNiF\n/CgsCTPlqydPh1KVPRYMSR/y2oEO1UrWoYhgOs8Xzq7pfcYMJIYF2lUPucSRqe4l\nCpkm7gYCtRHdJd4rErRS2lei0Wrz+EbH/rRiJNAzCwDvPe7o34LkeFvRwPjt5/2D\nv8aSN9PsAA3lszvBfUntGJLvV76Bu/A+CJFH3CBcSX4GYiPfD8jxzaRVhkzQ1lg5\nuCioCK7rAgMBAAECggEACpefUnPkEhWhzMm21S8BR5NWWXBJYQAk0rEudgpzv51J\nBxknLhcUUlgfOwBxc7LeTzLYnEaeAkYGzWXPmgc5NujQNAVnZUD8U/u/JBUBGAGr\nbkYgQGgY5pf5DBi0lK353qIJg6LoFtK/qUcuXSIAb8Tmht+wEJl+gN+hxFs73zMl\nNasNwjKVSGVHT7zp1/Re2I4bmaxRD9+wwuC3JDYCapgyDHN65L68o7o15DvofZpi\n0mlHXIm/QIZH/5FiO3PcbjdsW51X1E9tx9MN7racvXY8vxNuC3SV+jZvwFvznSk2\no6lrkRGa1OxB/9NcxWhr+BNL5GvWklsxfItEzivROQKBgQDbpOv7TgcFtym2I22F\nSxKNdN1Q943Jv8VgB62rRgjYUAPK2NG/1UnOrfn4u48WYz6j2M/DGoS5MQzwJCDY\nSRhpT+R8EZlrZMXK8uSs0QOs8puQx5NLdNp/XSwFQCJ/23VEi2uBU0Hwaii91bSp\nKSicZrBgulsD86kB825BOf8tdwKBgQC3CbHM75ajO4v9Nnsvz/EWVqvjdnruoKko\nBIdhEvaENMVbDm7V6PdSayn7fzLr+zeYMX1BcZF4E1X35igfeaU/Bu2RswtrYuoh\nnvU29Pd9ZayPfzejTKhEnk0oCZwj9r+HpMmzcC5lPCMXU6zsbcAFf/DYhRSt39Xg\nW3EIpagXLQKBgBKTvV3Q+KkUF9QO5Ql8EwKh2sIpXfWtYZ1AqQCueLsK8XcrpXnr\nKUXw0w6llnGXTUoAYXon+QfMzUJWW+zPKeBmYHXZ6zb5G/2RU6QGPaBYGK5DIwMj\nzAMvtzRuezyDLETy4dHbX91crTt5IsGX+JZZ3RshR+dqqWW/2BhuNlX7AoGBAJWb\nX++xGUA8iLSkFlZDMbxfhUl7awmm2fxyjzECLeprs7A0gNVpANYl73+4PSfzA0Lr\nmISoTg2GSGtCfSMU68MzZ3UCkl/ozpRCeA2+dpfRRhVYF2LrYlILzebey/f9VBmL\n0K1RESr/13LWmu342s3kADkJtZhU71zdgOtfc5/VAoGAERQLqGaGnhEO1Vu9LdSw\nQTho3zCUIIGD2sh/n6KoArI9GjqL9Vv5ZvNdfdezWWm+/z2CqJVSYo5zuDbXHTBu\nTvEJHz5d5NmGxJGuGGLdOTCbYqyMm3KsbN2qh3eepVnM25c9w8aWDGKzus8Ax2dm\n7Y2Ne77VK4sedOaXqsiqFsY=\n-----END PRIVATE KEY-----\n",
+    "client_email": "assetinventoryadminserviceacco@asset-inventory-289612.iam.gserviceaccount.com",
+    "client_id": "105269386088633924010",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assetinventoryadminserviceacco%40asset-inventory-289612.iam.gserviceaccount.com"
+}

@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "install-pkg": "npm install --prefix server && npm install --prefix client",
+    "dev": "concurrently \"cd server && npm run dev\" \"cd client && npm start\" "
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,52 @@
+{
+  "name": "asset-inventory",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
+    "axios": "^0.20.0",
+    "body-parser": "^1.19.0",
+    "clsx": "^1.1.1",
+    "cookie-parser": "^1.4.5",
+    "debug": "^2.6.9",
+    "express": "^4.17.1",
+    "fusioncharts": "^3.15.2",
+    "history": "^5.0.0",
+    "jade": "^1.11.0",
+    "lodash": "^4.17.20",
+    "morgan": "^1.10.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-fusioncharts": "^3.1.2",
+    "react-grid-layout": "^1.1.0",
+    "react-router-dom": "^5.2.0",
+    "react-script": "^2.0.5"
+  },
+  "devDependencies": {
+    "concurrently": "^3.6.1",
+    "nodemon": "^1.19.4",
+    "react-scripts": "^3.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
